@@ -1,5 +1,5 @@
 #API KEY
-cip_API = '${CRIMINALIP_API_KEY}'
+cip_API = 'LjkClM3lxW8DnYIuHrBzwOC4Y8oCCy6Vgqb1Q8ayU7Y7KKgOErXjFltGVMlf'
 
 #contants
 BASE_URL = "https://api.criminalip.io/"
